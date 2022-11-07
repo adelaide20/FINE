@@ -1,0 +1,72 @@
+.container {
+  margin: 40px;
+  margin-left: 40%;
+  background: linear-gradient(180deg, #024DA1 0%, #256789 27.8%, #FCBA21 100%);
+  /* background-image: linear-gradient(blue, yellow); */
+  width: 30rem;
+  height: 40rem;
+  border-radius: 2%;
+}
+.form{
+  display: flex;
+}
+#search-txt {
+  height: 40px;
+  border-radius: 5%;
+}
+#form-ico {
+  margin-left: 5px;
+  height: 35px;
+  width: 35px;
+  color: aliceblue;
+}
+.search-bar{
+  padding-top: 6rem;
+  margin-left: 110px;
+}
+.welcome{
+  font-size: xx-large;
+  color: aliceblue;
+  font-weight: bold;
+  padding-left: 110px;
+}
+.practitioners{
+  margin-top: 10px;
+  margin-left: 80px;
+  background: #FCBA21;
+  border-radius: 5%;
+  width: 300px;
+  box-shadow: 5px black;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.practitioners img{
+  margin: 5px;
+  margin-left: 10px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.username{
+  color: aliceblue;
+  font-weight: bolder;
+  font-size: larger;
+  padding-top: 10px;
+}
+.profession{
+  color: aliceblue;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  /* font-size: larger; */
+}
+#icon{
+  width: 40px;
+  height: 40px;
+
+  color: #024ca1d2;
+  padding-left: 50px;
+  padding-top: 20px;
+}

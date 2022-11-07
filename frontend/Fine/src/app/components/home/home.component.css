@@ -1,0 +1,76 @@
+.container {
+  margin: 40px;
+  padding-top: 100px;
+  margin-left: 40%;
+  background: linear-gradient(180deg, #024DA1 0%, #256789 27.8%, #FCBA21 100%);
+  /* background-image: linear-gradient(blue, yellow); */
+  width: 30rem;
+  height: 40rem;
+  border-radius: 2%;
+}
+.nav{
+  margin-top: 10px;
+  margin-left: 70px;
+  background: #FCBA21;
+  color: aliceblue;
+  width: 330px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 5px;
+}
+#nav-i {
+  margin-top: 7px;
+  width: 25px;
+  margin-left: 25px;
+  height: 25px;
+  color: aliceblue;
+}
+.post {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 100px;
+  /* background: black; */
+}
+.user{
+  display: flex;
+}
+#user-ico{
+  height: 30px;
+  width: 30px;
+}
+.user-pp{
+  margin-top: 5px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.username{
+  color: aliceblue;
+  font-weight: bold;
+  font-size: x-large;
+  padding-left: 5px;
+}
+.user-post {
+  height: 150px;
+  background: #fcba21a8;
+  /* overflow: hidden; */
+  border-radius: 5%;
+}
+.text {
+  padding-left: 10px;
+  overflow: hidden;
+  height: 100px;
+  /* line-height: 30px; */
+}
+#more{
+  display: none;
+}
+button{
+  background: #024DA1;
+  margin-left: 20px;
+}
+#emoji{
+  color: white;
+  padding-left: 280px;
+}
