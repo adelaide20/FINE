@@ -1,0 +1,28 @@
+.container {
+  margin: 40px;
+  margin-left: 40%;
+  background: linear-gradient(180deg, #024DA1 0%, #256789 27.8%, #FCBA21 100%);
+  /* background-image: linear-gradient(blue, yellow); */
+  width: 30rem;
+  height: 40rem;
+  border-radius: 2%;
+  padding-top: 100px;
+}
+.card.card-container{
+  margin-left: 10;
+  width: 200px;
+  height: 29px;
+  background-color: #e4b13a;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+#profile-img{
+  padding-left: 50px;
+}
+button{
+  margin-top: 50px;
+}
