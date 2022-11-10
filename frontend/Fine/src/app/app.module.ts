@@ -11,7 +11,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { ChatsComponent } from './components/chats/chats.component';
 import { ProfileComponent } from './components/profile/profile.component';
 import { LoginComponent } from './components/login/login.component';
-import { SearchComponent } from './components/search/search.component';
+import { SearchComponent } from './components/patient/search/search.component';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({

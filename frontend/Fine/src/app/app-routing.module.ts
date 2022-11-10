@@ -1,6 +1,6 @@
 import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
-import { SearchComponent } from './components/search/search.component';
+import { SearchComponent } from './components/patient/search/search.component';
 import { HomeComponent } from './components/home/home.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
